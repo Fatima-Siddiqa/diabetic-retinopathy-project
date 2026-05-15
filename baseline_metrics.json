@@ -1,0 +1,10 @@
+{
+  "model": "EfficientNet-B0 B2 Baseline (Cross-Entropy)",
+  "dataset": "APTOS 2019",
+  "accuracy": 0.7572,
+  "macro_f1": 0.6059,
+  "macro_precision": 0.5973,
+  "macro_recall": 0.6388,
+  "qwk": 0.7814,
+  "auc_macro_ovr": 0.9138
+}
